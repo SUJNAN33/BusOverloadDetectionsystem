@@ -1,7 +1,7 @@
 #define IR_SENSOR_PIN 2 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
-#include <NewPing.h>
+
 //code modified by Sujnan D Devadiga @NMAMIT
 
 const int buzzerPin = 4;
