@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <NewPing.h>
-//code by Sujnan D Devadiga @NMAMIT
+//code modified by Sujnan D Devadiga @NMAMIT
 
 const int buzzerPin = 4;
 const int redLedPin = 7;
