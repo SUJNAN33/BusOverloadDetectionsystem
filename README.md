@@ -13,15 +13,25 @@ Components:
 Connection Details:
 
 1.Connect the VCC of the IR Sensor to +5V on Arduino.
+
 2.Connect the GND of the IR Sensor to GND on Arduino.
+
 3.Connect the Signal (or OUT) of the IR Sensor to a digital pin (e.g., pin 2) on Arduino.
+
 4.Connect the positive (longer leg) of the Buzzer to a digital pin (e.g., pin 4) on Arduino.
+
 5.Connect the negative (shorter leg) of the Buzzer to GND on Arduino.
+
 6.Connect the Anode of the Red LED to a digital pin (e.g., pin 7) on Arduino.
+
 7.Connect the Cathode of the Red LED to GND on Arduino via a current-limiting resistor.
+
 8.Connect the Anode of the Green LED to a digital pin (e.g., pin 8) on Arduino.
+
 9.Connect the Cathode of the Green LED to GND on Arduino via a current-limiting resistor.
+
 10.Connect the I2C lines (SDA and SCL) of the LCD to the corresponding pins on Arduino (A4 and A5).
+
 11.Connect the VCC and GND of the LCD to +5V and GND on Arduino.
 
 Working:
