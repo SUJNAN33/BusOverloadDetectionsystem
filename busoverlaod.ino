@@ -56,7 +56,7 @@ void runCycle() {
         }
       }
 
-      // Wait until the object is no longer detected
+      
       while (digitalRead(IR_SENSOR_PIN) == HIGH) {
         delay(100);
       }
