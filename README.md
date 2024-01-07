@@ -1,5 +1,5 @@
-# BusOverloadDetectionsystem
- A bus overload system is designed to prevent buses from carrying too many passengers, ensuring passenger safety and compliance with Total capacity of the vehicle
+# Bus Overload Detectionsystem
+A bus overload detction system is designed to prevent buses from carrying too many passengers, ensuring passenger safety and compliance with Total capacity of the vehicle
 
 Components:
 
@@ -8,7 +8,8 @@ Components:
 3.Buzzer
 4.Red LED
 5.Green LED
-6.Liquid Crystal Display (LCD) with I2C interface 
+6.Liquid Crystal Display (LCD) with I2C interface
+7.Breadboard
 
 Connection Details:
 
