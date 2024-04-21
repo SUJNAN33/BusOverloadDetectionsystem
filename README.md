@@ -6,7 +6,7 @@ Components:
 1.Arduino Uno
 2.IR Sensor
 3.Buzzer
-4.Red LED
+4.Red LED 
 5.Green LED
 6.Liquid Crystal Display (LCD) with I2C interface
 7.Breadboard
