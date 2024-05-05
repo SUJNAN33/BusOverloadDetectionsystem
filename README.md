@@ -4,7 +4,7 @@ A bus overload detction system is designed to prevent buses from carrying too ma
 Components:
 
 1.Arduino Uno
-2.IR Sensor
+2.IR Sensor 
 3.Buzzer
 4.Red LED 
 5.Green LED 
