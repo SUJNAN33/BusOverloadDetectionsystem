@@ -9,7 +9,7 @@ Components:
 4.Red LED  
 5.Green LED 
 6.Liquid Crystal Display (LCD) with I2C interface
-7.Breadboard 
+7.Breadboard  
 
 Connection Details:
 
