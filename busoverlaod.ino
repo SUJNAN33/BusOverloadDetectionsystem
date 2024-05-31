@@ -3,7 +3,7 @@
 #include <LiquidCrystal_I2C.h>
 
 //code modified by Sujnan D Devadiga @NMAMIT
- 
+  
 const int buzzerPin = 4;
 const int redLedPin = 7;
 const int greenLedPin = 8;
